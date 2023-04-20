@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73292d05-cb09-438a-86bd-389c71c1f266" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Learn_PyTorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn_PyTorch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/0.Quick_Start/Quick Start.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_To_PyTorch/0.Quick_Start/Quick Start.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="73292d05-cb09-438a-86bd-389c71c1f266" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +51,7 @@
       <workItem from="1681834309331" duration="106000" />
       <workItem from="1681986609824" duration="716000" />
       <workItem from="1681987351107" duration="910000" />
-      <workItem from="1681989861977" duration="2198000" />
+      <workItem from="1681989861977" duration="2515000" />
     </task>
     <servers />
   </component>
