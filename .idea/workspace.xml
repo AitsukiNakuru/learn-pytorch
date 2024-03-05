@@ -4,11 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73292d05-cb09-438a-86bd-389c71c1f266" name="更改" comment="" />
+    <list default="true" id="73292d05-cb09-438a-86bd-389c71c1f266" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/TorchVision Object Detection Finetuning Tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/TorchVision Object Detection Finetuning Tutorial015.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/coco_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/coco_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/group_by_aspect_ratio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/presets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/transforms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image And  Video/TorchVision Object Detection Finetuning Tutorial/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning PyTorch/Deep_Learning_With_PyTorch/Tensors.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning PyTorch/Wath_Is_Torchnn_Really/Wath_Is_Torchnn_Really.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learn_PyTorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn-PyTorch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/0.Quick_Start/.ipynb_checkpoints/Quick Start-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/0.Quick_Start/.ipynb_checkpoints/Quick Start-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/0.Quick_Start/Quick Start.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/0.Quick_Start/Quick Start.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/0.Quick_Start/model.pth" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/0.Quick_Start/model.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/1.Tensors/Tensors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/1.Tensors/Tensors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/2.Datasets_And_DataLoaders/Custom_Dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/2.Datasets_And_DataLoaders/Custom_Dataset.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/2.Datasets_And_DataLoaders/Datasets_And_DataLoaders.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/2.Datasets_And_DataLoaders/Datasets_And_DataLoaders.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/2.Datasets_And_DataLoaders/Matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/2.Datasets_And_DataLoaders/Matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/3.Transforms/Transforms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/3.Transforms/Transforms.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/4.Neural_Network/Neural_Network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/4.Neural_Network/Neural_Network.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/5.Automatic_Differentiation/Automatic_Differentiation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/5.Automatic_Differentiation/Automatic_Differentiation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/6.Optimizing_Model_Parameters/Optimizing_Model_Parameters.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/6.Optimizing_Model_Parameters/Optimizing_Model_Parameters.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_To_PyTorch/7.Save_And_Load_The_Model/Save_And_Load_The_Model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction To PyTorch/7.Save_And_Load_The_Model/Save_And_Load_The_Model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_PyTorch/Deep_Learning_With_PyTorch/Differentiation_In_Autograd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learning PyTorch/Deep_Learning_With_PyTorch/Differentiation_In_Autograd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_PyTorch/Deep_Learning_With_PyTorch/Neural_Networks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learning PyTorch/Deep_Learning_With_PyTorch/Neural_Networks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_PyTorch/Deep_Learning_With_PyTorch/Torch_AutoGrad.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learning PyTorch/Deep_Learning_With_PyTorch/Torch_AutoGrad.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_PyTorch/Deep_Learning_With_PyTorch/Train_A_Classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learning PyTorch/Deep_Learning_With_PyTorch/Train_A_Classifier.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_PyTorch/TensorBoard/TensorBoard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Learning PyTorch/TensorBoard/TensorBoard.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,7 +64,16 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="0zd3fsj7" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ObZe6wt824mveNApcnt2WeV7lx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,19 +82,42 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lin/Code/MyProject/Machine-Learning/learn-pytorch/Image And  Video/TorchVision Object Detection Finetuning Tutorial&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ssh.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lin\Code\MyProject\Machine-Learning\learn-pytorch\Image And  Video\TorchVision Object Detection Finetuning Tutorial" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="73292d05-cb09-438a-86bd-389c71c1f266" name="更改" comment="" />
@@ -52,10 +132,48 @@
       <workItem from="1681986609824" duration="716000" />
       <workItem from="1681987351107" duration="910000" />
       <workItem from="1681989861977" duration="2515000" />
+      <workItem from="1684829994513" duration="666000" />
+      <workItem from="1684830674655" duration="753000" />
+      <workItem from="1684831643405" duration="799000" />
+      <workItem from="1687352951641" duration="276000" />
+      <workItem from="1709034739750" duration="5400000" />
+      <workItem from="1709085166609" duration="17000" />
+      <workItem from="1709085195630" duration="420000" />
+      <workItem from="1709085621940" duration="111000" />
+      <workItem from="1709085748552" duration="30000" />
+      <workItem from="1709085781805" duration="553000" />
+      <workItem from="1709086356030" duration="80000" />
+      <workItem from="1709086449679" duration="114000" />
+      <workItem from="1709086583442" duration="67000" />
+      <workItem from="1709086662152" duration="102000" />
+      <workItem from="1709086778733" duration="445000" />
+      <workItem from="1709087236419" duration="463000" />
+      <workItem from="1709087714481" duration="3572000" />
+      <workItem from="1709168132241" duration="6068000" />
+      <workItem from="1709254525749" duration="6162000" />
+      <workItem from="1709427517269" duration="5144000" />
+      <workItem from="1709433974209" duration="61000" />
+      <workItem from="1709434872190" duration="765000" />
+      <workItem from="1709513929488" duration="14882000" />
+      <workItem from="1709542263132" duration="393000" />
+      <workItem from="1709547935698" duration="749000" />
+      <workItem from="1709548944795" duration="3386000" />
+      <workItem from="1709600370942" duration="556000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

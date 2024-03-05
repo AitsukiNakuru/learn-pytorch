@@ -7,7 +7,7 @@
           <value>
             <JupyterConnectionParameters>
               <option name="managed" value="true" />
-              <option name="sdkHomePath" value="C:\Program Files\Python\machine-learning\Scripts\python.exe" />
+              <option name="sdkHomePath" value="C:\Users\Lin\Apps\Anaconda\envs\machine-learning\python.exe" />
             </JupyterConnectionParameters>
           </value>
         </entry>

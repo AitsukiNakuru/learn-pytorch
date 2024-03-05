@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0fe148b9-dff4-4259-bcd4-7abc69dae3f1" name="yang">
+        <fileTransfer rootFolder="/D:/lin/project/learn-pytorch" accessType="SFTP" host="10.128.10.113" port="22" sshConfigId="9d1e80d4-d2c8-4933-8b35-c1c1b7ab1afd" sshConfig="Lenovo@10.128.10.113:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
